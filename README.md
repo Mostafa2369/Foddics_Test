@@ -3,7 +3,7 @@ Automation Task For Foodics
 
 ## Introduction
 
-This repository contains automation script for keyword search. 
+This repository contains an automation script for keyword search, Navigation and some validations. 
 
 ## Prerequisites
 
