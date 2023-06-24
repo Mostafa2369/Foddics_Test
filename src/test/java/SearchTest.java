@@ -62,7 +62,6 @@ public class SearchTest extends Utilities {
 
         //6-Validate there are different search suggestions displayed at the end of the page
         scrollDown(driver);
-       // ((JavascriptExecutor) driver).executeScript("window.scrollTo(0, document.body.scrollHeight)"); //Scroll down
         assertTrue(searchSuggestions(resultPage.relatSearchBox())); //validation there are different search suggestions displayed at the end of the page
     }
 

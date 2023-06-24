@@ -42,6 +42,9 @@ To run the Selenium scripts, follow these steps:
 6. Validate there are different search suggestions displayed at the end of the page
 7. Close the browser window
 
+## Improtant Note
+**To change Browser, URL, First Keyword, Second Keyword is from "src/main/java/resources/data.properties"**
+
 
 ## Authors
 
